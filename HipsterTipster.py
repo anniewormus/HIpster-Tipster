@@ -3,12 +3,6 @@
     Created by Annie Wormus 1/11/2021
 '''
 
-''' 20% tip - they sucked but you're a decent human being
-    round up even - 
-    palindrome number
-    all same number
-'''
-
 def main():
 
     print("Welcome")
