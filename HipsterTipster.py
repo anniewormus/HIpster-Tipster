@@ -44,9 +44,9 @@ def repeating_tip(total):
 #     print("tip amount")
 
 def print_it(twenty, even, palindrome, repeat):
-    print("The service sucked, but I'm still a decent human being: " + twenty + " (20%)")
-    print("Round it out: " + even)
-    print("Front to back: " + palindrome)
-    print("Did I stutter?: " + repeat)
+    print("The service sucked, but I'm still a decent human being: ", twenty ," (20%)")
+    print("Round it out: ", even)
+    print("Front to back: ",  palindrome)
+    print("Did I stutter?: ", repeat)
 
 main()
