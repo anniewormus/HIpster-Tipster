@@ -32,4 +32,4 @@ Leave your server thinking you're a mathematical genius with this palindrome mod
 final payment into a number that looks appealing and reads the same front and back.
 
 ## Repeating Numbers
-
+Dyslexics love this mode.
