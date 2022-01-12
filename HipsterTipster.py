@@ -2,7 +2,11 @@
     A funky fresh tipping calculator.
     Created by Annie and Aaron Wormus 1/11/2021
 '''
-
+'''
+    TO DO:
+    -palindrome and repeat functions
+    -figure out how to add extra zero for formatting
+'''
 # Imports
 import math
 
@@ -10,7 +14,7 @@ def main():
 
     # Welcome statements
     print("Welcome")
-    print("Enter your total bill (the price before any discounts or promo's, don't be a jackass) : ")
+    print("Enter your total bill (the price before any discounts or promo's, don't be a jackass) : ",end="")
     total = float(input())
 
     # Method calls
@@ -35,7 +39,7 @@ def twenty_percent_tip(total):
 
 # Calculates the closest even number with a tip greater than 20% of the total
     '''
-        Variables: 
+        Variables:
                 total - the total bill entered by user
                 twenty - 20% of the total bill
         Returns: 
