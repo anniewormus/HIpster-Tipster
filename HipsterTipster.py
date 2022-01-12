@@ -42,7 +42,7 @@ def twenty_percent_tip(total):
                 tip
     '''
 def even_number_tip(total, twenty):
-    baseline = twenty+total
+    baseline = twenty + total
     baseline = math.ceil(baseline)
 
     return baseline
@@ -56,6 +56,7 @@ def even_number_tip(total, twenty):
                 tip
     '''
 def palindrome_tip(total, twenty):
+    baseline = twenty + total
     return 1
 
 # Calculates the closest repdigit with a tip greater than 20% of the total
@@ -67,6 +68,7 @@ def palindrome_tip(total, twenty):
                 tip
     '''
 def repeating_tip(total, twenty):
+    baseline = twenty + total
     return 1
 
 # Formats the number to 2 decimal places
@@ -77,7 +79,7 @@ def repeating_tip(total, twenty):
                 formatted_val
     '''
 def format(x):
-    formatted_val = '{:.2f}'.format(x)
+    formatted_val = '{0:.2f}'.format(x)
     return float(formatted_val)
 
 # Prints calculated tips
