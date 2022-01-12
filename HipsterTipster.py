@@ -106,6 +106,8 @@ def print_it(total, twenty, even, palindrome, repeat):
     print("Did I stutter?: ")
     print_tip_total(0, 0)
 
+
+# Prints formatted tips and totals
 def print_tip_total(tip, total):
 
     # Formats numbers
