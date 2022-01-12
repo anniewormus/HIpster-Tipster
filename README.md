@@ -6,7 +6,7 @@ once you leave, making it so that the next time you show your face in that estab
 not only will you recieve bad service, but there might be an extra little surprise in your
 medium rare burger, toasted bun, with extra mayo and onions, side of extra crispy fries.
 
-Don't be that person.
+**Don't be that person.**
 
 Now with the Hipster Tipster funky fresh tipping calculator, not only will you be appreciated
 for doing the bare minimum, but people will be in awe of how cool and smart you are by leaving
