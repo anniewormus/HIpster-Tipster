@@ -1,1 +1,2 @@
 "# HIpster-Tipster" 
+"# Hipster-Tipster" 
